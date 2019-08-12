@@ -1,8 +1,8 @@
 # FTP Client for the ESP32
 
-[![GitHub version](https://img.shields.io/github/release/ldab/ESP32_FTPClient.svg)](https://github.com/blackcodetavern/ESP32_FTPClient/releases/latest)
+[![GitHub version](https://img.shields.io/github/release/blackcodetavern/ESP32_FTPClient.svg)](https://github.com/blackcodetavern/ESP32_FTPClient/releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/blackcodetavern/ESP32_FTPClient/blob/master/LICENSE)
-[![GitHub last commit](https://img.shields.io/github/last-commit/ldab/ESP32_FTPClient.svg?style=social)](https://github.com/blackcodetavern/ESP32_FTPClient)
+[![GitHub last commit](https://img.shields.io/github/last-commit/blackcodetavern/ESP32_FTPClient.svg?style=social)](https://github.com/blackcodetavern/ESP32_FTPClient)
 
 # Description
 I use this client to write sensordata into a log file and to upload images for my rabbit-webcam.
