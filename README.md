@@ -1,6 +1,5 @@
 # FTP Client for the ESP32
 
-[![GitHub version](https://img.shields.io/github/release/blackcodetavern/ESP32_FTPClient.svg)](https://github.com/blackcodetavern/ESP32_FTPClient/releases/latest)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/blackcodetavern/ESP32_FTPClient/blob/master/LICENSE)
 [![GitHub last commit](https://img.shields.io/github/last-commit/blackcodetavern/ESP32_FTPClient.svg?style=social)](https://github.com/blackcodetavern/ESP32_FTPClient)
 
