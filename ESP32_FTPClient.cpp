@@ -237,6 +237,14 @@ void ESP32_FTPClient::MakeDir(const char * dir) {
   GetFTPAnswer();
 }
 
+void ESP32_FTPClient::RemoveDir(const char * dir) {
+  FTPdbgn("Send RMD");
+  if(!isConnected()) return;
+  client.print(F("RMD "));
+  client.println(F(dir));
+  GetFTPAnswer();
+}
+
 void ESP32_FTPClient::ContentList(const char * dir, String * list) {
   char _resp[ sizeof(outBuf) ];
   uint16_t _b = 0;
