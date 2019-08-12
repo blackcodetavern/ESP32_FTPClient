@@ -1,9 +1,7 @@
 # FTP Client for the ESP32
 
 [![GitHub version](https://img.shields.io/github/release/ldab/ESP32_FTPClient.svg)](https://github.com/blackcodetavern/ESP32_FTPClient/releases/latest)
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/blackcodetavern/ESP32_FTPClient/blob/master/LICENSE)
-
 [![GitHub last commit](https://img.shields.io/github/last-commit/ldab/ESP32_FTPClient.svg?style=social)](https://github.com/blackcodetavern/ESP32_FTPClient)
 
 # Description
@@ -15,7 +13,9 @@ I also noticed some problems with my 8 month old espressif library. You need to 
 
 # TODO
 [ ] Better errorhandling
+
 [ ] Less redundant code
+
 [ ] Recursive folder delete
 
 ## Imageupload
